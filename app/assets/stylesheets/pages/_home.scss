@@ -1,1 +1,15 @@
 // Specific CSS for your home-page
+
+.layout {
+  display: flex;
+}
+
+#navbar {
+  width: 30rem;
+} 
+
+.cards {
+  padding: 3rem 10rem;
+  background-color: grey;
+  margin: 0;
+}

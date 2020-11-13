@@ -1,0 +1,17 @@
+.button {
+  border-radius: 2px;
+  padding: 0.5rem;
+  background-color: rgba(200, 200, 200, 0.2);
+  margin: 0.5rem;
+  
+  a {
+    color: white;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+}
+
+.button:hover {
+  background-color: rgba(200, 200, 200, 0.3)
+}
